@@ -1,0 +1,1 @@
+To compare the competetive advantage a team using data science has over a team which doesn't using data from Sean Lahman's Baseball Database.The analyses is done using numpy arrays pandas and mathplotlib.
